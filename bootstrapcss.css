@@ -1,0 +1,126 @@
+        #index html,
+        body {
+            background-image: url("./images/circles-and-roundabouts.png.png");
+        }
+
+        #index .float-right {
+            float: right;
+        }
+
+        #index main hr {
+            border: 2px solid #cccccc;
+        }
+
+        #index #selfie {
+            width: 150px;
+            height: 150px;
+        }
+
+        #index img {
+            width: 75px;
+            height: 75px;
+        }
+
+        #index nav {
+            border-bottom: 2px solid #cccccc;
+            background: white;
+            color: white;
+        }
+
+        #index nav {
+            color: #ccc;
+        }
+
+        #index a,
+        span {
+            display: inline-flex;
+        }
+
+        #index h3 {
+            font-size: 1.5em;
+        }
+
+        #index main {
+            margin: 20px auto 20px auto;
+        }
+
+        #index footer {
+            margin: 0 auto 0 auto;
+            padding-top: 20px;
+            padding-bottom: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+            border-top: 5px solid #4aaaa5;
+            background-color: #666;
+            color: lightgray;
+        }
+
+        #contact .main-section {
+            background-color: #fff;
+            border: solid 2px #ccc;
+            margin: 20px;
+        }
+
+        #contact nav {
+            background: white;
+            color: white;
+        }
+
+        #contact #logo {
+            color: #4aaaa5;
+            font-size: 2.5em;
+        }
+
+        #contact div nav a {
+            font-size: 1.5em;
+            color: #4aaaa5;
+            border-bottom: none;
+        }
+
+        #contact a {}
+
+        #contact footer {
+            margin: 0 auto 0 auto;
+            padding-top: 20px;
+            padding-bottom: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+            border-top: 5px solid #4aaaa5;
+            background-color: #666;
+            color: lightgray;
+            text-align: center;
+        }
+
+        #contact .sidebar {
+
+            color: #4aaaa5;
+            margin: 20px;
+        }
+
+        #contact img {
+            max-width: 100px;
+            width: 100%;
+            width: auto;
+            height: auto;
+        }
+
+        #contact #logo {
+            background-color: #4aaaa5;
+            color: #fff
+        }
+
+        #portfolio html,
+        body {
+            background-image: url("./images/circles-and-roundabouts.png.png");
+        }
+
+      #contact #connect img {
+        max-width: 75px;
+      }
+
+      #portfolio img {
+        max-width: 150px;
+        width: 100%;
+      }
